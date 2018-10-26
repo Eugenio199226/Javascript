@@ -1,0 +1,12 @@
+h1{text-align: center;}
+.div-section
+{
+    display:inline-block;
+    width: 40%;
+}
+
+#caja-texto
+{
+    width: 100px;
+    height: 100px;
+}
